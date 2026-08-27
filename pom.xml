@@ -59,7 +59,7 @@
         <fast.json.version>1.2.47</fast.json.version>
         <maven.compiler.plugin.version>2.3.2</maven.compiler.plugin.version>
         <junit.version>4.12</junit.version>
-        <http.client.version>4.4.1</http.client.version>
+        <http.client.version>4.5.13</http.client.version>
         <jsoup.version>1.9.2</jsoup.version>
         <commons.lang.version>2.4</commons.lang.version>
         <jedis.version>2.9.0</jedis.version>
